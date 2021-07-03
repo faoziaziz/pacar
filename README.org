@@ -1,0 +1,4 @@
+#+TITLE: Pacar
+
+* Pengantar
+Pacar? Hah, kau pikir aku tidak punya? Ini dia pacar bot.
