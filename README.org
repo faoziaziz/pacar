@@ -2,3 +2,6 @@
 
 * Pengantar
 Pacar? Hah, kau pikir aku tidak punya? Ini dia pacar bot.
+* Desain
+Sebenernya ini cuma pake console line biar kayak ada chat gitu.
+siap bang gas
